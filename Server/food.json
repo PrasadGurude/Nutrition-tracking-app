@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Rajma Chawal",
+        "protein": 7,
+        "carbohydrates": 34,
+        "fat": 3,
+        "fiber": 6
+    },
+    {
+        "name": "Chole Bhature",
+        "protein": 9,
+        "carbohydrates": 45,
+        "fat": 15,
+        "fiber": 4
+    },
+    {
+        "name": "Paneer Tikka",
+        "protein": 12,
+        "carbohydrates": 8,
+        "fat": 10,
+        "fiber": 2
+    },
+    {
+        "name": "Pav Bhaji",
+        "protein": 6,
+        "carbohydrates": 30,
+        "fat": 15,
+        "fiber": 5
+    },
+    {
+        "name": "Dosa",
+        "protein": 4,
+        "carbohydrates": 30,
+        "fat": 2,
+        "fiber": 3
+    },
+    {
+        "name": "Pulao",
+        "protein": 5,
+        "carbohydrates": 45,
+        "fat": 8,
+        "fiber": 2
+    },
+    {
+        "name": "Biryani",
+        "protein": 10,
+        "carbohydrates": 50,
+        "fat": 15,
+        "fiber": 3
+    },
+    {
+        "name": "Aloo Paratha",
+        "protein": 6,
+        "carbohydrates": 40,
+        "fat": 12,
+        "fiber": 4
+    },
+    {
+        "name": "Idli",
+        "protein": 3,
+        "carbohydrates": 20,
+        "fat": 1,
+        "fiber": 2
+    },
+    {
+        "name": "Samosa",
+        "protein": 4,
+        "carbohydrates": 25,
+        "fat": 12,
+        "fiber": 3
+    },
+    {
+        "name": "Bhindi Masala",
+        "protein": 3,
+        "carbohydrates": 10,
+        "fat": 5,
+        "fiber": 4
+    },
+    {
+        "name": "Aloo Gobi",
+        "protein": 4,
+        "carbohydrates": 15,
+        "fat": 8,
+        "fiber": 3
+    },
+    {
+        "name": "Chicken Curry",
+        "protein": 20,
+        "carbohydrates": 15,
+        "fat": 10,
+        "fiber": 2
+    },
+    {
+        "name": "Palak Paneer",
+        "protein": 15,
+        "carbohydrates": 12,
+        "fat": 12,
+        "fiber": 4
+    },
+    {
+        "name": "Poha",
+        "protein": 3,
+        "carbohydrates": 25,
+        "fat": 6,
+        "fiber": 2
+    },
+    {
+        "name": "Rasgulla",
+        "protein": 2,
+        "carbohydrates": 30,
+        "fat": 0,
+        "fiber": 0
+    },
+    {
+        "name": "Gulab Jamun",
+        "protein": 3,
+        "carbohydrates": 35,
+        "fat": 10,
+        "fiber": 1
+    },
+    {
+        "name": "Chana Masala",
+        "protein": 8,
+        "carbohydrates": 30,
+        "fat": 6,
+        "fiber": 5
+    },
+    {
+        "name": "Vada Pav",
+        "protein": 5,
+        "carbohydrates": 35,
+        "fat": 10,
+        "fiber": 3
+    },
+    {
+        "name": "Kadhi Chawal",
+        "protein": 6,
+        "carbohydrates": 40,
+        "fat": 8,
+        "fiber": 3
+    }
+]
